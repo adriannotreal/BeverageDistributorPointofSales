@@ -1,0 +1,27 @@
+Setup
+
+Requirements: 
+	Crystal Report Runtime
+		1. Download Crystal Report runtime version Service Pack 31 32 Bit. 
+		2. Finish the installation of Crystal Report runtime.
+	XAMPP
+		1. Download XAMPP version available for your operating system.
+		2. Install the XAMPP into the computer.
+		3. Open the XAMPP Control Panel and start the MySQL module.
+		4. Open a web browser and enter the URL "http://localhost/phpmyadmin/index.php"
+		5. Create new database and name it “ambergrey_trading”.
+                6. Import the “InitialSetup.sql” into the database. The sql file is located in the setup folder.
+ 		7. The application is now ready to operate.
+
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+
+
+Default username: admin
+Default password: admin

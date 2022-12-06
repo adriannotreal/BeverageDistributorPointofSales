@@ -1,0 +1,221 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Point of Sales of Ambergrey Trading
+</name>
+</assembly>
+<members>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.analysis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.backup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.box__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.breakage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.delivery">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.exit_26px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.liquor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.now_in_stock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.out_of_stock__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.out_of_stock__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.refresh_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.restore">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.shopping_cart_26px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.soft_drinks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.statistics__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.up_left_26px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Point_of_Sales_of_Ambergrey_Trading.My.Resources.Resources.variables">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.receiptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.SalesHistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.productsReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.salesReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.stockInHistoryReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.stockOutReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.productLossReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.receiptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.SalesHistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.productsReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.salesReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.stockInHistoryReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.stockOutReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.productLossReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.receiptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.SalesHistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.productsReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.salesReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.stockInHistoryReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.stockOutReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Point_of_Sales_of_Ambergrey_Trading.datasetpos.productLossReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

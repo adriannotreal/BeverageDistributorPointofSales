@@ -1,0 +1,65 @@
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\Point of Sales of Ambergrey Trading.exe.config
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\Point of Sales of Ambergrey Trading.exe
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\Point of Sales of Ambergrey Trading.pdb
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\Point of Sales of Ambergrey Trading.xml
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmMain.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.Resources.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.vbproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.vbproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.exe
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.xml
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.pdb
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\MySql.Data.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\Google.Protobuf.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\ZstdNet.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\System.Memory.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\System.Buffers.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\MySql.Data.xml
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.exe.config
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.vbproj.CopyComplete
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmPOS.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\stdole.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmReceipt.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmLogin.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmSalesHistory.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmProductsReport.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmSalesReport.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmStockInHistory.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmStockOut.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmProductLoss.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmChangePassword.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmForgotPassword.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmDataAnalysis.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\Point of Sales of Ambergrey Trading.exe.manifest
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\bin\Debug\Point of Sales of Ambergrey Trading.application
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.TrustInfo.xml
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.exe.manifest
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point of Sales of Ambergrey Trading.application
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmAddCustomerPOS.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmVoid.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmVoidLogIn.resources
+C:\Users\Adrian\source\repos\Point of Sales of Ambergrey Trading\Point of Sales of Ambergrey Trading\obj\Debug\Point_of_Sales_of_Ambergrey_Trading.frmForgotPassword1.resources
